@@ -8,10 +8,6 @@ https://github.com/shaffachaudhry/E-Commerce-Back-End
 ## WALKTHROUGH 
 https://drive.google.com/file/d/1sC86mV-EDOp9Riy6kHXjZYMyxouroSJO/view
 
-## MOCK IMAGE
-![ Image 1](./assets/mock1.png)
-![ Image 2](./assets/mock2.png)
-
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Description](#description)
