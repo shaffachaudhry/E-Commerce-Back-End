@@ -27,8 +27,8 @@ https://drive.google.com/file/d/1sC86mV-EDOp9Riy6kHXjZYMyxouroSJO/view
 The application provides a back end for an e-commerce website that uses a functional Express.js API to manage a database. 
 
 ## Mock Image
-![ Image 1](./assets/mock1.png)
-![ Image 2](./assets/mock2.png)
+![ Image 1](./Assets/mock1.png)
+![ Image 2](./Assets/mock2.png)
 
 ## Usage 
 This application uses Insomnia to test routes (GET/POST/PUT/DELETE)
